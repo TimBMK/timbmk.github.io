@@ -13,3 +13,5 @@ I also made the method available in a more convenient form, namely as the [_text
 I have worked on the data analysis for numerous scientific paper, employing methods such as [Network Analysis](https://doi.org/10.17645/mac.v8i4.3164), [Topic Modeling](https://doi.org/10.34669/wi.wjds/2.2.5), [Heterogeneous Information Networks](https://doi.org/10.3389/fsoc.2022.884640), and [Generalised Additive Regression Models](https://doi.org/10.18442/041). 
 
 As part of the EPINetz Project, I also oversaw the curation and collection of data on German politicians on Twitter. The data set has been [published as open source](https://doi.org/10.1007/s11615-022-00405-7) (with an updated version available [here](https://doi.org/10.7802/2609)).
+
+I am also teaching [workshops](/workshops/) for university staff, researchers and students on different subjects such as Remote Computing, Best Practices for Scalable Data Analysis, NLP and the use of LLMs.
