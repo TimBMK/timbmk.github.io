@@ -8,7 +8,7 @@ permalink: /publications/
 König\
 **_Politische Kommunikation in komplexen Medienumgebungen. Epistemologie, Methoden und Theorien der Erforschung digitaler Öffentlichkeit_**\
 Dissertation, University of Hildesheim\
-[https://doi.org/10.18442/041]()
+[https://doi.org/10.18442/041](https://doi.org/10.18442/041)
 
 #### 2024                                                                              
 König / Linhart\
