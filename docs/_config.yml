@@ -33,7 +33,6 @@ github_username:  TimBMK
 theme: minima
 plugins:
   - jekyll-feed
-  - jeykll-target-blank
 
 # Exclude from processing.
 # The following items will not be processed, by default.
