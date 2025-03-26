@@ -1,12 +1,12 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 ---
 
 ## Work
 
-Since April 2024: **Lecturer/Researcher**, University of Hildesheim
+April 2024 – April 2025 : **Lecturer/Researcher**, University of Hildesheim
 
 April 2023 – March 2024: **Team Lead Project EPINetz**, University of Hildesheim / University of Heidelberg
 
