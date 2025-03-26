@@ -16,7 +16,7 @@ Digital Social Sciences, University of Hildesheim\
 #### 2023
 **_Online-Kommentare als Diskursform | Online Comments as Discourse_**\
 Interdisciplinary Seminar, University of Hildesheim\
-[Materials](https://github.com/TimBMK/seminar-youtube-discourses)
+[Materials](https://github.com/TimBMK/seminar-youtube-discourses){:target="_blank"}{:rel="noopener noreferrer"}
 
 #### 2021
 **_Medien und Politikvermittlung: Politische Öffentlichkeit und Digitaler Strukturwandel | Media and Political Education: Public Sphere and Digitalisation_**\
