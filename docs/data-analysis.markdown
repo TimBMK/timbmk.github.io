@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Data Analysis
+title: Data Analysis & Natural Language Processing
 permalink: /data-analysis/
 ---
 
 Over the years, I have executed and managed numerous data analysis projects in _Python_ and _R_. You can find all my projects on [Github](https://github.com/TimBMK).
 
-As a Team Lead for the [EPINetz Project](https://epinetz.de/), I have managed the conception, evaluation and implementation of a novel, unsupervised multi-label classification algorithm. It was employed on the [EPINetz Platform](https://app.epinetz.de/) to classify millions of Tweets and news articles into policy areas. It made use of large scale text graphs, random walks, and hand-picked expert data sources for classification. The code is available [here](https://github.com/TimBMK/EPINetz-Policy-Parser).
+Recently, I have been working with LLMs and agentic frameworks. Among other things, I have written a [Retriever implementation](https://github.com/TimBMK/langchain-zotero-retriever) for the [LangChain](https://www.langchain.com/) Framework to access to [Zotero](https://www.zotero.org/) libraries.
+
+As a Team Lead for the [EPINetz Project](https://epinetz.de/), I have managed the conceptualization, evaluation and implementation of a novel, unsupervised multi-label classification algorithm. It was employed on the [EPINetz Platform](https://app.epinetz.de/) to classify millions of Tweets and news articles into policy areas. It made use of large scale text graphs, random walks, and hand-picked expert data sources for classification. The code is available [here](https://github.com/TimBMK/EPINetz-Policy-Parser).
 
 I also made the method available in a more convenient form, namely as the [_textgraph_ package for _R_](https://github.com/TimBMK/textgraph). It provides workflows for both unsupervised and seeded cluster extraction from text graphs (or any graph, really), parallelisation functionality and different ways of exploring and visualising the results. It supports both static and dynamic graphs.
 
