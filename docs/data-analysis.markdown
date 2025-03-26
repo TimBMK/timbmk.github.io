@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Analysis & Natural Language Processing
+title: Data Analysis & NLP
 permalink: /data-analysis/
 ---
 
